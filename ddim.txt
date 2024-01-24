@@ -1,0 +1,7 @@
+python main.py --config cifar10.yml --exp {PROJECT_PATH} --doc {MODEL_NAME} --ni
+python main.py --config bedroom.yml --exp datas/bedroom --doc models/bedroom --ni
+python main.py --config celeba.yml --exp datas/celeba --doc models/celeba --ni
+python main.py --config church.yml --exp datas/church --doc models/church --ni
+
+
+(ddim) D:\experiment\DDIM\ddim-main>python main.py --config cifar10.yml --exp ./ddpm_cifar10  --doc ddpm_cifar10 --ni   
